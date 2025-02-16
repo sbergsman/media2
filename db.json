@@ -17,14 +17,91 @@
       "name": "Lela Smitham"
     },
     {
-      "id": "961d",
-      "name": "Mr. Maxine Ortiz V"
+      "id": "3895",
+      "name": "Traci Hilll"
     },
     {
-      "id": "3b79",
-      "name": "Mario Fisher DVM"
+      "id": "7730",
+      "name": "Alexis Dooley"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "aff2",
+      "userId": "1",
+      "title": "Practical Concrete Chips"
+    },
+    {
+      "id": "29e5",
+      "userId": "1",
+      "title": "Rustic Rubber Towels"
+    },
+    {
+      "id": "0f9b",
+      "userId": "dd9d",
+      "title": "Gorgeous Fresh Salad"
+    },
+    {
+      "id": "ffae",
+      "userId": "7730",
+      "title": "Handmade Rubber Fish"
+    },
+    {
+      "id": "fb16",
+      "userId": "3895",
+      "title": "Recycled Cotton Mouse"
+    },
+    {
+      "id": "b1e1",
+      "userId": "dd9d",
+      "title": "Licensed Cotton Car"
+    },
+    {
+      "id": "817b",
+      "userId": "1a73",
+      "title": "Fantastic Soft Chair"
+    },
+    {
+      "id": "e6e4",
+      "userId": "1",
+      "title": "Unbranded Granite Chair"
+    },
+    {
+      "id": "dbe7",
+      "userId": "1",
+      "title": "Practical Frozen Keyboard"
+    },
+    {
+      "id": "51af",
+      "userId": "1",
+      "title": "Generic Wooden Computer"
+    }
+  ],
+  "photos": [
+    {
+      "id": "3bcb",
+      "albumId": "aff2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=61188"
+    },
+    {
+      "id": "3f3e",
+      "albumId": "aff2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79624"
+    },
+    {
+      "id": "6032",
+      "albumId": "aff2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=96497"
+    },
+    {
+      "id": "9c59",
+      "albumId": "aff2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=46521"
+    },
+    {
+      "id": "eaea",
+      "albumId": "aff2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=66929"
+    }
+  ]
 }
